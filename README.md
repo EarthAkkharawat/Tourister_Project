@@ -1,3 +1,5 @@
-# sec1_Group7_Tourister
+# Tourister and Guide matching web application
 
-Group 6's SE1 project: Tourister, the guide matching platform.
+Made as part of final project in 2110336 Software Engineering II, semester 2/2022.
+
+
